@@ -1,0 +1,9 @@
+[alias]
+    ck=checkout
+    s=status
+    b=branch
+    cm=commit
+    d=diff
+    f=fetch origin
+    p=push origin
+    l=log
