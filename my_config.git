@@ -7,3 +7,4 @@
     f=fetch origin
     p=push origin
     l=log
+    pl=pull origin
